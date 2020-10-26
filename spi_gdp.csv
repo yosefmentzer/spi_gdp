@@ -1,4 +1,4 @@
-﻿country_code,country,ac_qual_edu,pr_sch,sec_sch,qual_univ,cit_doc,tert_sch_years,gdp,oecd,wb_region,wb_incomegroup
+﻿country_code,country,ac_qual_edu,pr_sch,sec_sch,qual_univ,cit_doc,tert_sch_years,gdp_pc,oecd,wb_region,wb_incomegroup
 AFG,Afghanistan,0.9641,,21.506,2.400000095,0.00384,0.33869,,0,South Asia,Low income
 AGO,Angola,0.6786,81.58926667,29.31,1.799999952,0.00324,0.46332,4993.845953,0,Sub-Saharan Africa,Lower middle income
 ALB,Albania,2.3978,93.96278,89.018,4.320000029,0.139829999,2.81867,11941.19746,0,Europe & Central Asia,Upper middle income
