@@ -9,3 +9,10 @@ From SPI:
 
 From Penn World Tables 9.1:
   Output-side real GDP at chained PPPs (in mil. 2011US$)
+
+From OECD
+  binary: whether a country is an OECD member or not
+
+From World Bank
+  World Bank Region
+  World Bank Income Group
