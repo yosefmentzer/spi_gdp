@@ -5,7 +5,7 @@ sec_sch_att,Secondary school attainment (% of population)
 qual_w_uni,Quality weighted universities (points)
 cit_doc,Citable documents
 years_tert,Years of tertiary schooling
-rdgpo_pc_2017,Output-side real GDP at chained PPPs (in mil. 2011US$)
+gdp,Output-side real GDP at chained PPPs (in mil. 2011US$)
 oecd,binary: whether a country is an OECD member or not
 wb_region,World Bank Region
 wb_incomegroup,World Bank Income Group
