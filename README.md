@@ -7,5 +7,5 @@ From SPI:
   Citable documents
   Years of tertiary schooling
 
-From Penn World Tables 9.1
+From Penn World Tables 9.1:
   Output-side real GDP at chained PPPs (in mil. 2011US$)
