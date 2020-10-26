@@ -1,8 +1,0 @@
-﻿column,description
-access_qual_edu,Access to quality education (0=unequal; 4=equal)
-prim_sch_enrol,Primary school enrollment (% of children)
-sec_sch_att,Secondary school attainment (% of population)
-qual_w_uni,Quality weighted universities (points)
-cit_doc,Citable documents
-years_tert,Years of tertiary schooling
-rdgpo_pc_2017,Output-side real GDP at chained PPPs (in mil. 2011US$)
